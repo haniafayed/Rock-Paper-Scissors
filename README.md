@@ -2,7 +2,7 @@
 # Rock-Paper-Scissors
 *A smart contract written in Solidity that can be usd to break a tie between two people and distribute some reward between them fairly.*
 
-**
+
 
 ## Description of the protocol mechanism and requirements:
 
